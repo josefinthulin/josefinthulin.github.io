@@ -195,21 +195,24 @@ body {
   font-family: Alfa Slab One;
 }
 
-#typsnitt{
-    font-family: Josefin Slab;
-}
-
 #pivot{
-  margin-top: 59px;
+  margin-top: 130px;
   background-image: url(../bilder/pivot.00_gif_srz);
   width: 290px;
   height: 190px;
-  margin-right: 100px;
 }
 
-.textomsynkro{
+#vinge{
+  margin-top: 70px;
+  background-image: url(../bilder/vinge.jpg);
+  width: 290px;
+  height:190px;
+}
+
+.textsynkro{
   text-align: center;
-  font-size: 12px;
+  font-size: 15px;
+  font-family: Josefin Slab;
 }
 
 
