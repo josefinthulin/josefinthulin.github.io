@@ -195,6 +195,10 @@ body {
   font-family: Alfa Slab One;
 }
 
+#typsnitt{
+    font-family: Josefin Slab;
+}
+
 #pivot{
   margin-top: 59px;
   background-image: url(../bilder/pivot.00_gif_srz);
@@ -206,10 +210,6 @@ body {
 .textomsynkro{
   text-align: center;
   font-size: 12px;
-}
-
-#typsnitt{
-    font-family: Josefin Slab: cursive;
 }
 
 
